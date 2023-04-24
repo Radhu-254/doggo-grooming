@@ -31,6 +31,11 @@ export const navigationData = [
     href: '#services',
   },
   {
+    name: 'Gallery',
+    href: '#gallery',
+
+  },
+  {
     name: 'Pricing',
     href: '#pricing',
   },
@@ -52,13 +57,13 @@ export const aboutData = {
   image: AboutImg,
   title: 'About the Salon',
   subtitle:
-    'First and foremost, the experience at DogGo grooming is unlike the traditional boarding or grooming services at a Veterinarian Facility. We take pride in the care and treatment of our “patients” because, like you, we love dogs and treat them like family while they are here.',
+    'First and foremost, the experience at DogGo grooming is unlike the traditional boarding or grooming services at a Veterinarian Facility. We take pride in the care and treatment of our “clients” because, like you, we love dogs and treat them like family while they are here.',
 };
 
 export const featuresData = {
   title: 'Dog Grooming Services',
   subtitle:
-    'We only use natural, cruelty free products that are all hypoallergenic and we are highly trained and experienced with all breeds.',
+    'We only use natural 🌸, cruelty free products that are all hypoallergenic and we are highly trained 🐕‍🦺 and experienced with all breeds .',
   list: [
     {
       image: Service1Img,

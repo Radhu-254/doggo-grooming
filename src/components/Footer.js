@@ -12,7 +12,7 @@ const Footer = () => {
             <img src={Logo} alt='' />
           </a>
           <div className='text-[15px]'>
-            &copy;  2023. Odan infotech LLC.
+            &copy;  2023 Odan Infotech LLC.
           </div>
         </div>
       </div>

@@ -8,7 +8,7 @@ const Appointment = () => {
           {/* form */}
           <form className='bg-teal-200 w-full max-w-[790px] h-[500px] mx-auto lg:mt-20 rounded-[60px] py-8 px-6 text-center flex flex-col justify-start items-center gap-y-4'
                  action="https://getform.io/f/2706633e-5d59-457c-a853-10106ebeccc4 " method="POST">
-            <h2 className='h2 my-4'>Schedule The Appointment</h2>
+            <h2 className='h2 my-4'>Schedule the Appointment</h2>
             <input
               className='input-control'
               type='text'
@@ -44,7 +44,7 @@ const Appointment = () => {
               name="treatment"
               autoComplete='off'
             />
-            <button className='bg-teal-400 hover:bg-teal-700 text-white rounded-full h-20 w-1/3 font-bold uppercase  '>Book Now</button>
+            <button className='bg-teal-400 hover:bg-teal-700 text-white rounded-full h-20 xl:w-1/3 w-1/2 font-bold uppercase  '>Book Now</button>
           </form>
         </div>
       </div>

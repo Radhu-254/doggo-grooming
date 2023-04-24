@@ -11,11 +11,11 @@ const Bundle = ({ bundles }) => {
         const { name, price, list } = bundle;
         return (
           <div
-            className='w-full lg:max-w-1/3 bg-white shadow-primary text-center h-[300px] rounded-[60px] py-12 px-8 '
+            className='w-full lg:max-w-1/3 bg-white shadow-primary text-center h-[300px] rounded-[30px] py-6 px-8 '
             key={index}
           >
-            <div className='text-5xl font-bold text-black mb-4'>${price}</div>
-            <div className='capitalize mb-12 text-blue font-medium'>{name}</div>
+            <div className='xl:text-3xl text-2xl font-bold text-black xl:mb-4 mb-2'>${price}</div>
+            <div className='capitalize xl:mb-12 mb-6 text-blue font-medium'>{name}</div>
             <div className='flex flex-col gap-y-4 max-w-[230px] mx-auto'>
               {list.map((item, index) => {
                 return (

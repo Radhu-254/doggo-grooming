@@ -14,6 +14,7 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 import Prices from './components/Prices';
 import Appointment from './components/Appointment';
+import Gallery from './components/Gallery';
 
 const App = () => {
   // animate on scroll initialization
@@ -27,6 +28,7 @@ const App = () => {
       <Hero />
       <About />
       <Features />
+      <Gallery/>
       <Prices/>
       <Testimonials />
       <Appointment/>
