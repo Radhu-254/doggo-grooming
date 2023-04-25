@@ -26,7 +26,7 @@ const Prices = () => {
       <div className='container mx-auto'>
         <div className='text-center mb-20'>
           <h2 className='h2 mb-3' data-aos='fade-down' data-aos-delay='100'>Full Groom package</h2>
-          <p className='text-xl text-gray-500 font-semibold' data-aos='fade-down' data-aos-delay='200'>Choose the category of your dog 🦴</p>
+          <p className='text-xl text-gray-500 font-semibold' data-aos='fade-down' data-aos-delay='200'>Choose the size of your dog 🦴</p>
         </div>
         {/* bundles */}
         <div className='grid grid-cols-3 gap-3 lg:gap-[30px]'>
@@ -48,7 +48,7 @@ const Prices = () => {
                 data-aos-delay='100'
               >
                 <div className='xl:ml-20  mb-2 lg:mb-8 hover:scale-105 transition-all duration-300'>
-                  <img className=" w-72 h-72 sm:h-60 sm:w-60 object-contain object-top bg-gradient-to-b  from-teal-500 to-teal-300 rounded-full pt-5 "src={image.type} alt='' />
+                  <img className=" xl:w-72 xl:h-72 md:w-72 md:h-72 h-45 w-60 object-contain object-top bg-gradient-to-b  from-teal-500 to-teal-200 rounded-full pt-5 "src={image.type} alt='' />
                 </div>
                 <h3 className='lg:text-2xl capitalize font-semibold text-blue lg:mb-2'>
                   {name}
