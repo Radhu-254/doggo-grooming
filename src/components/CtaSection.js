@@ -37,7 +37,20 @@ const CtaSection = () => {
               {subtitle5}
             </p>
           </div>
-
+          {/* Stripe Link */}
+          <div className='py-12 xl:py-24 text-center xl:text-left'>
+          <a href="https://buy.stripe.com/test_14k6qx1FI96IgSs28a">
+            <button className='bg-teal-400 hover:bg-teal-700 text-white rounded-full text-3xl h2 mb-5 py-4 px-8' data-aos='fade-up' data-aos-delay='300'>
+              Buy Now
+            </button>
+            </a>
+            <p className='lead' data-aos='fade-up'>
+            ✂️ DogGo Grooming's Special
+            </p>
+            <p className='lead' data-aos='fade-up'>
+            Special Full grooming kit
+            </p>
+          </div>
 
         </div>
       </div>

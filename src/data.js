@@ -213,7 +213,7 @@ export const testimonialsData = [
     name: 'Ross Geller',
     breed: "Dog's Breed: Bulldog",
     message:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. ',
+      ' My Titan absolutely loved the Puppy Pamper treatment ⭐ ',
     delay: '300',
   },
   {
@@ -221,7 +221,7 @@ export const testimonialsData = [
     name: 'Joey Tribbiani',
     breed: "Dog's Breed: Beagle",
     message:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+      "Got the De-shed treatment done for my dog. Loved the Service 💜. ",
     delay: '600',
   },
   {
@@ -229,7 +229,7 @@ export const testimonialsData = [
     name: 'Monica Geller',
     breed: "Dog's Breed: Poodle",
     message:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+      "Poodle's full groom treatment is awesome 😌",
     delay: '900',
   },
 ];
@@ -237,7 +237,7 @@ export const testimonialsData = [
 export const ctaData = {
   title: 'Contact Us',
   subtitle1: ' 👩‍🏭Working Hours: Mon-Sat : 7am to 7pm',
-  subtitle2: '📞9925731479   ✉️doggogrooming@gmail.com',
+  subtitle2: '📞9925731479  ✉️doggogrooming@gmail.com ',
   location: 'Address',
   subtitle3: ' A-Signature Avenue,',
   subtitle4: ' Girton Herts Ave Street,',
